@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695590172 source:c:\users\user\onedrive\my codes\my projects\bird game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
