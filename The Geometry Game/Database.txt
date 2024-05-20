@@ -1,0 +1,60 @@
+Kazi Rifat Al Muin
+rifat
+CSE
+2107042
+110
+Sheikh Galib
+galib
+CSE
+2107020
+50
+Tasmir Hossain Zihad
+chanachur
+CSE
+2107071
+50
+Farid Ahmed
+farid
+CSE
+2107043
+40
+Masum Molla
+masum
+CSE
+2107040
+50
+Dip Shekhar Datta
+dip
+CSE
+2107047
+40
+Md Nayeem
+nayeem
+CSE
+2107050
+80
+Zunaed Nudar
+zunaed
+CSE
+2107041
+90
+Arman Rahman Rafi
+rafi
+CSE
+2107046
+30
+Tarikul Islam
+tarikul
+CSE
+2107048
+30
+daud
+daud
+cse
+2107002
+180
+Abdullah Al Saif
+saif
+CSE
+2107017
+0
